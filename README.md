@@ -3,6 +3,8 @@ LoseYourMarblesClone
 
 This project is a partial remake of SegaSoft's 1997 puzzle game, Lose Your Marbles. It is written in Java using the game development framework libGDX and includes an Android Studio project ( https://github.com/libgdx/libgdx/wiki/Gradle-and-Intellij-IDEA ).
 
+Gameplay video: https://www.youtube.com/watch?v=uFkcMTbFjJo
+
 For the desktop build the following screenshot shows a quick example reference for a Run Configuration.
 
 ![Desktop Build Configuration](./DesktopBuildConfiguration.png)
